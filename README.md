@@ -5,3 +5,7 @@ One notable aspect is the swipe-up lockscreen 🛡️, ensuring an extra layer o
 Keep in touch with your friends and the community through apps like Twitter 🐦, WhatsApp 💬, and traditional phone calls 📞. The Google Maps app 🗺️ helps players easily navigate the game world, and the garage app 🚗 allows them to manage their vehicles efficiently.
 
 Additionally, players can explore a variety of service apps 📧, including a mail app and many others 🔍. The QBCore Store Phone script offers a smooth, immersive experience 🌟, elevating the gameplay for everyone involved.
+![Preview](https://github.com/user-attachments/assets/de610022-cc91-4a66-b48e-f392c2313e06)
+
+
+![Preview2](https://github.com/user-attachments/assets/1f6f495b-a867-455d-a5b6-48e14589b17a)
